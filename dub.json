@@ -27,11 +27,15 @@
 	"importPaths": [
 		"../../LIBS/uim-core",
 		"../../LIBS/uim-oop",
+		"../../LIBS/uim-languages",
+		
 		"./"
 	],
 	"sourcePaths": [
 		"../../LIBS/uim-core",
 		"../../LIBS/uim-oop",
+		"../../LIBS/uim-languages",
+
 		"./"
 	],
 	"targetType": "library"
